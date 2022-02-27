@@ -19,8 +19,8 @@ En este repositorio se encuentran las prácticas del primer módulo de la Misió
 
 
 ##### Práctica:
-- Toma de requerimientos
-- Buyer persona
-- Público objetivo
-- Wireframe UX
-- Wireframe UI
+- [Toma de requerimientos](https://github.com/miguel-mahay/Kata-Introduccion-FrontEnd/blob/main/Requerimientos.pdf)
+- [Buyer persona](https://github.com/miguel-mahay/Kata-Introduccion-FrontEnd/blob/main/Buyer%20Persona.pdf)
+- [Público objetivo](https://github.com/miguel-mahay/Kata-Introduccion-FrontEnd/blob/main/Publico%20objetivo.pdf)
+- [Wireframe UX](https://github.com/miguel-mahay/Kata-Introduccion-FrontEnd/blob/main/Wireframe_UX.md)
+- [Wireframe UI](https://github.com/miguel-mahay/Kata-Introduccion-FrontEnd/blob/main/Wireframe_UI.md)
